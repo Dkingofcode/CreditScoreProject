@@ -1,0 +1,21 @@
+.main{
+  overflow-y: scroll;
+}
+
+.head{
+  background-color: gray;
+  border: 1px solid white;
+  padding: 2px;
+}
+
+.guide div{
+ display: flex;
+ width: 100%;
+ justify-content: space-between;
+}
+
+.guide span{
+  border: 1px solid grey;
+  width: 50%;
+  text-align: center;
+}
